@@ -28,4 +28,3 @@ resource "snowflake_schema" "demo_schema" {
   name     = "DEMO_SCHEMA"
   comment  = "Schema for Snowflake Terraform demo"
 }
-# useless comment to force commit
